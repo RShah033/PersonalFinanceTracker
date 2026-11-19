@@ -1,3 +1,6 @@
+JAVA PERSONAL FINANCE TRACKER
+
+
 This project allows a user to
 - Add and edit transactions
 - Track their expenses
